@@ -1,2 +1,2 @@
-# Bard-Bot
-Try to make a bot with Google Bard
+# Discord-Bot
+Try to make a discord bot in python with a lot of commands
